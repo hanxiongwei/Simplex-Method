@@ -8,8 +8,8 @@ Simplex Method using python
 2. 检测无穷解的情况
 3. 支持的LP输入格式
 
-$min\,\{c{\cdot}x\}$
+$max\,\{c{\cdot}x\}$
 
 $A{\cdot}x{\leq}b$
 
-$x{\geq}0$
+$x{\geq}0​$
